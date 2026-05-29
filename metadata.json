@@ -1,0 +1,6 @@
+{
+  "name": "Futuristic Premium Gym Website",
+  "description": "A high-end, futuristic luxury gym website featuring ultra-minimal design, glassmorphism UI, and cinematic visual styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
